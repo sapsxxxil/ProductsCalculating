@@ -1,5 +1,5 @@
 /*
- * 6
+ * product
  */
 var express = require('express');
 var app = express();
